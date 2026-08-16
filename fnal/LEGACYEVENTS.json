@@ -1,0 +1,9 @@
+[
+  1,
+  {
+    "eventName": "1 Year",
+    "eventDesc": "Celebrate FNAL's 1 year, with exclusive Frank and it's friends BIRTHDAY COSTUMES!",
+    "eventJSON": {"showHour":"1","flb":100,"power":75,"oneHour":2,"car":100,"fb":80,"tutorial":0,"canRestore":1,"goldenadamo":2,"night":"1year","costume":"anniv"},
+    "eventVer": 0
+  }
+]
