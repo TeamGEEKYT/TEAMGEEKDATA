@@ -1,0 +1,6 @@
+{
+  "eventName": "100 DOWNLOADS NIGHT",
+  "eventDesc": "Let's celebrate 100 downloads with that hard night!",
+  "eventJSON": {"showHour":"1","flb":100,"power":75,"oneHour":2,"car":100,"fb":80,"tutorial":0,"canRestore":0,"goldenadamo":2,"night":"EventOneHundredDownload","sprint":1},
+  "eventVer": 4
+}
